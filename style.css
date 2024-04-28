@@ -182,7 +182,6 @@ body {
     text-align: center;
      
 }
-
 #about h2 {
     padding-bottom: 77px;
     text-align: left;
@@ -198,6 +197,17 @@ body {
 #about .section-p2 {
     text-align: center;
 }
+#experiance {
+    height: 30vh;
+    width: 0.5re;
+    background-size: cover;
+    padding: 0 50px;
+    display: ;
+    flex-direction:column;
+ 
+     
+
+}
 .projects{
     margin: 0;
     padding: 10rem 2rem;
@@ -208,6 +218,7 @@ body {
     margin: 0%;
     font-size:3.2rem;
     color: white;
+
 }
 @media (max-width: 800px){
     h2{
@@ -257,4 +268,7 @@ body {
 
 #footer h1 {
      color:#465b52;
+}
+#button {
+    color: #088178;
 }
